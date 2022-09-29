@@ -1,0 +1,8 @@
+#define WIFI_SSID "MySSID"
+#define WIFI_PASS "MyPass"
+
+#define PIN_DHT_DATA 2
+
+#define SERVER_HOST "10.0.1.1"
+#define SERVER_PORT 8123
+#define METRICS_ENDPOINT "/api/webhook/MyWebhook"
